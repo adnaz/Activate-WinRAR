@@ -1,10 +1,4 @@
 # Activate-WinRAR
-How to use:
-
-  1- Open the Activate-WinRAR.bat file
-  2- Click YES to run as administrator
-  3- Press any key to activate WinRAR
-  4- Close the file
 
 What is the patch doing on my PC?
 
